@@ -1,2 +1,4 @@
-# Algorithm-C++-2018-10
-ACM problems
+### Algorithm
+#### Intrducton
+In this repo, I present part all of my algorithm pronblem during my Universities file
+#### Directory
